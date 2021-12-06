@@ -1,0 +1,11 @@
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: cadetblue;
+}
+
+a#cabecalho__cor{
+    color: white;
+}
+
+a#cabecalho__navlink{
+    color: white;
+}

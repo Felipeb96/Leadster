@@ -1,0 +1,14 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0 auto;
+    padding: auto   ;
+}
+body{
+    background-color: #DCDCDC;
+}
+
+a:hover {
+    text-decoration: none;
+}

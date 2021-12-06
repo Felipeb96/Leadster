@@ -1,0 +1,25 @@
+.rodape {
+    text-align: center;
+    margin-top: 2%;
+    display: block;
+    margin: 5px;
+}
+
+a.text-white {
+    display: block;
+}
+.redes-sociais {
+    display: inline-flex;
+    align-items: center;
+    height: 30px;
+    cursor: pointer;
+    text-align: end;
+    position: static;
+    margin: 10px;
+}
+.text-center.p-3 {
+    background-color: #212529;
+    color: white;
+    position: static;
+    height: 8em;
+}
